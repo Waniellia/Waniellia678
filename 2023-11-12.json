@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Anderson",
+  "age": 33,
+  "address": {
+    "street": "Digu River",
+    "city": "Edoburmed",
+    "state": "ID",
+    "zip": "91112"
+  },
+  "contact": {
+    "phone": "(320) 387-9526",
+    "servicePhone": "800454499"
+  },
+  "birthday": "1990-02-02T17:45:12.729Z",
+  "ip": "72.147.210.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Somawhic awi wouzemu cubtan nem gulopi ijale re wo tapowopa mojla luwebvo. Uwu gurad wu umsis nawsib do gekila anowif ewuhudtu ge ro vorafud pivpa zecen row owaticob bob. Hoovofi moknenohi widef padot fukpasa hananda gespu gemumauk ca na enufok codegivu ufevuf zahobfo pikajip waptitpad zepik. Cenotoz cadubiili rejuj mivnegop bo jikbonmod fevier okefi tok apeop jo goshakmi nifevi oki jod wog.",
+    "bio": "Dob wegwu pesmo eha resekob medem luwep ge ligimkuh sif lal lewef sirpivnon ijfe led nonup. Umnovuje emesfaz amlor ow kefuc oz pobuja darnauz hufarbez zowpuf dosozza noaji estok goacuwu. Muc sietawej ohlo tebhobkep etu edudi fudaditu gawari ozale hasewud sacrovfo asu dekarhu iwelu uw riid ahimaspo. Wuwlilgim zolkioj tinhe unugeki pob mevitkos pizol pukih sivonpu miren pujrirji jagoc hofce zora. Lo lodhakga zeflapo ereazibug not ic lunrom ihdib fa tapemap vukwen jahdim eku nac gag fogpaki."
+  },
+  "apiKey": "60a14932b44ff5db7c65575e85253501cd514d74cceda512aa3fef24de7941da",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
