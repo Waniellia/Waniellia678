@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Holland",
+  "age": 46,
+  "address": {
+    "street": "Avdid Glen",
+    "city": "Jianlok",
+    "state": "AR",
+    "zip": "71321"
+  },
+  "contact": {
+    "phone": "(310) 387-1186",
+    "servicePhone": "800329176"
+  },
+  "birthday": "1973-03-15T04:57:09.608Z",
+  "ip": "73.77.8.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Sir abi ap kofsoz va oc riz tavirfo uj pemwu leas girrucom paili. Rik du imeve zodbupaci fopsor ineiwpe nofuepo hup mibmucmur bet wocrante usapej gifpu. Tawi rocwez go gik ceh ukiikekof vecenit kodedu tusot gebam difrozza ekiiguta caf aneje muki.",
+    "bio": "Ad ubetej ofgasun uzri efailano gucpef paurwaw zimut nozpa areuba vunnid polenu. Ho kelko udtib cur po nogosu jek pifuf inbih ofidiji zekrezhi vop biefa sos vevaras nuluhiza. Siusepek vecegofuv bohume cirenugu avofimi mivdeko bel okos kar kahic rob di vic."
+  },
+  "apiKey": "cf95ea79395dff05d8b1007f3e283de5137620519291984c50f5f60a7d9e3f22",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
