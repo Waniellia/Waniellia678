@@ -1,0 +1,26 @@
+{
+  "name": "Randy Wong",
+  "age": 19,
+  "address": {
+    "street": "Govin Park",
+    "city": "Konjedad",
+    "state": "OK",
+    "zip": "05412"
+  },
+  "contact": {
+    "phone": "(754) 533-3901",
+    "servicePhone": "800524724"
+  },
+  "birthday": "2003-02-17T10:50:41.947Z",
+  "ip": "12.124.198.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Fib voez hej eputecej garvi ni istahiz ebaekucar bawilce ad sufodiw waf jojoftum wectafoc edkilzo jivje. Cotav vuwaplew gosuhvug epdubtog udobi awso getakel rir ciite ibzuj hafzu tel tu somfoiv kavjo. Banoro mi ethiw tabbecem ire wec folwi guni ca ke eviud kom potka inekepjin. Za oggap bimva ko puksa itwockim petna goham deegfis ade es cuvrub zemro ci fas nadtuf. Mah dot kosinsa watazbi taicuzug jorbo ijufel nuje rodice cezmohka suwhakov ekzejled lic nuek efoiccu so zeawiso esor.",
+    "bio": "Hiag fasaz ek ma sa raz pok korru jafo nu rib colcel wu pigzi omazat cumuhzu. Bo ifi peadi he ki eplop torum ice migjewok miv rogewe adbiiz diftof emdar gopebter fica. Ku ife avu so si es sepus gaezvo uzah pinwi zoar ho nawrevdo. Tiorzuh icwewsi kan cali olne wejas miz piol if jenjewah lucbid huri sescanve zesborojo. Od nude tunbob wiuti wok tu liwhit fo luvha zavhopiwe fefajez nadi."
+  },
+  "apiKey": "d8d4c6e551876c26ba275bf16d0766cfe37fc1e1d85b292c4d049f84002b1a52",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
