@@ -1,0 +1,26 @@
+{
+  "name": "Marian Bowman",
+  "age": 40,
+  "address": {
+    "street": "Gezfow Street",
+    "city": "Tuckasoc",
+    "state": "MD",
+    "zip": "16168"
+  },
+  "contact": {
+    "phone": "(321) 724-8931",
+    "servicePhone": "800789364"
+  },
+  "birthday": "1965-06-24T06:10:57.464Z",
+  "ip": "48.207.17.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne hof nufcup zeag cezni koc conol rukuh soshueh tarbumzi olbu eviga fujpehvaf nobujun socbewnu. Toburo ek obda nalbif tupaz fi kebwow va neev jivgim vewinoki uporoz vot moj hakare pelivif miewizeh be. Ata mu nueli hud gowwi dooga morib lagejte coloz iduwelub det eko vonek daimuto.",
+    "bio": "Wu suw naedivow vo ibases lerlam wuota ce gihbeila pilta vohle pacetlo. Jil pid vudoke veb fibbej mis uc widaw vifow baojipam ekesavi zotasta pocunu do fi. Tuen zokin nomitiz vokoun owade lomuw zehija bu matrove odu ibgedi ipneje su. Berhur vim og bodmapupo vag esko roicamu couvucuw oliranra ade sozduv enku levazawa bep cu bepug kanid zihzeoze."
+  },
+  "apiKey": "fd2be91c8b77d21e83422c0cf26751499649baad076d578553dc50663b6aaae7",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
