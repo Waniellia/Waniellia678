@@ -1,0 +1,26 @@
+{
+  "name": "Adele Griffith",
+  "age": 26,
+  "address": {
+    "street": "Newji Street",
+    "city": "Rucletruf",
+    "state": "PA",
+    "zip": "93980"
+  },
+  "contact": {
+    "phone": "(464) 525-3000",
+    "servicePhone": "800665576"
+  },
+  "birthday": "1983-12-15T20:41:50.381Z",
+  "ip": "201.33.5.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Suf ah nugkugu sum le pin terulaf fopoj wedooza titzeg motvid nehuknot banoap visuprir. Capbi div dutgufhe mor ticlu cidek fu ic cezlah ic up wul tajizpup dol wejwior. Lit lenuzwe ze duc muh lid dafuwe cubeus opogo ceje niuwti ifisu darzumik wavdozube re paefuizu.",
+    "bio": "Ijo uru helopah ase da ofmij wuphik zacu ilopogfi we jipvide di li got worve map. Gicriki bomgighip jarimawe wo zuno ajotipced disalrun apho tez folluk lumrezdud wok hedarnom osbuczag mun geogoime. Hoh pivkawmi si bajgin fat oga tacoh tadrovpi buszusop nuzirwim kacruvkop sutug wezlem ce fuz."
+  },
+  "apiKey": "db5728e1189d1b411108e72bf0d4686f4e1f45d92c457f3c69cba9f36eb40698",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
