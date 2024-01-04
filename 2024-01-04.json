@@ -1,0 +1,26 @@
+{
+  "name": "Madge Buchanan",
+  "age": 51,
+  "address": {
+    "street": "Jaduh Court",
+    "city": "Hukekte",
+    "state": "ID",
+    "zip": "59678"
+  },
+  "contact": {
+    "phone": "(415) 206-5992",
+    "servicePhone": "800194713"
+  },
+  "birthday": "1979-11-25T22:47:34.451Z",
+  "ip": "11.72.107.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Iwradtif ogi gu bohop titas sa lemad eto lazahiji litkufne sek go wiruco. Ji dafselto lurec zebgafe jektuja pamkacug igorilar jivo juc tek nusula carkofef tipnuhu mejova buwe. Mewvu wim wawrasku jeagkoj wuohec osaegiol wufufies pez wapocreb odra oju zigbu ovpeale. Ebo iw us wu ze reljo hu rulbanu pog sufozon tuvidu ibegejno win ti zuzpuntim mecugfuc.",
+    "bio": "Jifitgan eloso neptah anahog vuluvgoj pup nos cevehzip cu ero mid naihtic ginjuduk wumotbid ap joilu vo. Reg kogcu wibot su ejti ba kuwuotu mos efojebon hi ugiuvu esebuuke je fuvenluh. Fafjeik rurof zirso ipvotez ohifo co widutco logiap tijwun genbihew jeh nujipi."
+  },
+  "apiKey": "3c15aa825f9dfde5b40f0090b41162e68abcbffb15cc44c57fc249873b7ff8e4",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
