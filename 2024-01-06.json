@@ -1,0 +1,26 @@
+{
+  "name": "Sean Erickson",
+  "age": 20,
+  "address": {
+    "street": "Uvole Parkway",
+    "city": "Likkavti",
+    "state": "KY",
+    "zip": "24613"
+  },
+  "contact": {
+    "phone": "(312) 893-7257",
+    "servicePhone": "800996779"
+  },
+  "birthday": "2003-12-12T18:23:12.626Z",
+  "ip": "194.157.98.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Gogkirah enafieha atu veki muvohba cep va turzi ne ce zuuszi refruw nivu. Icu me esu hirab woz lijewo muf putec pe cijmoubu ahumilzo fe is. Atagitun muho pepezuz nus balizla wulwi tadethu se moit ujmor mewiih holunu conze juwolut du era. Pavwul muzuw ajagin heja dof ikbi aj ogso mudoro cuv kejric luzumoh kajogihu jum paje izogjaf jimoilo raluho. Tudag iduarna gunmur heofa og anu celeso udu ojcil wokvu huethag maotifog hadrasni as.",
+    "bio": "Vo biare rongowa git cupobis wiis imuro le zuzwe fodne valefo nipibzel di tu daiwe jizero lijoaj le. Vav ribid hozu cuzbam wa aca bam zurih ec fohemu jiva nerasec pudjip zitnanuwe fu docip wudoh gatce. Cem hecni gam okrihu binumid tu ozi ko zuffob ruuj vafuh pofin jag egoji seriw fik wuabaopo hezeju."
+  },
+  "apiKey": "309e92d5fe503f521a245c87018b6eea505a1434594cd66f5265603a6862962b",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
