@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Simpson",
+  "age": 18,
+  "address": {
+    "street": "Umaba Road",
+    "city": "Zewnefwe",
+    "state": "NM",
+    "zip": "39065"
+  },
+  "contact": {
+    "phone": "(662) 506-5344",
+    "servicePhone": "800117675"
+  },
+  "birthday": "1978-04-19T20:12:03.893Z",
+  "ip": "72.47.113.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Filkad wuwa bubitje azotusu okmev bufi pib funo ze jub mirtooj radaziz ulita neini cizolo. Mew ve zudivrad zop nejvotuw jeoz cib miv dip jocpenwi ceduimu hi it. Gadrim osiiklo kam ozosuz ji inuced uhatirhuk givoc eftujfam bub pef vizod egu.",
+    "bio": "Ufiregpe hilad seg feci ewe gotuk os ohezouk pizzujmuc gij cohdiute mufcet fesisfib gojdef ac la kijtiragi. Ufanines kehbo buwebeha jujloz aw sadeler mimfu uratutvil koko fevahho ruc nad mod vomefe. Juzehumi wozutu acjif fi pecewvoc wajduwwa niriwa remhe ica evavos keihu cow anuik su ani na mawowgo if. Kase dobhas bive ohere cabhul omovaip ja ko moosu kop suemi vigi kezifaw wu rihwi vi tavdabi danim. Reraf sifal konzo elwote pauf zunum goli pufag ofa bu calasotus larmi wurale ewoeg hecoze. Maen zahija en mejoka jeipiwo zecmumbe boter ho uvaicu jajos mi acata. Romacu ovejan zegvibo oznadfa wiji umofises ozuner hibgit zilosha ovoda su nuvodum ohodooj."
+  },
+  "apiKey": "0c10756aae5c32d38886674bf817adf7cfa5ec15e74c8d18b73f7526798ef856",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
