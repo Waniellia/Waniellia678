@@ -1,0 +1,26 @@
+{
+  "name": "Maud Page",
+  "age": 39,
+  "address": {
+    "street": "Secteb Mill",
+    "city": "Keredtof",
+    "state": "AK",
+    "zip": "32961"
+  },
+  "contact": {
+    "phone": "(330) 484-4620",
+    "servicePhone": "800561784"
+  },
+  "birthday": "1968-01-05T11:47:14.997Z",
+  "ip": "86.209.146.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Madecce mit nus faebag pi lubwe wapiv bu rug kab ugedivvac ha. Vefohwi raj lotorag julsu ciwmouku pelerom ramnuwgel uzweglic wopopmi cakpeahe bu ojivoas hehaho ecekve go hi. Cuuci soroc si itazuopi donofera gu punem dize buf to besezo seocoud tef faf ca de hemujloc. Ketzaaj demvi seeroro kesur laneltih ih gemmogi bihtaah moonsez harlo erevirpog olujeci golenme nekkicbu pi foja iz.",
+    "bio": "Rifi iz idcasso ivzaid teviisa dolke zismi vuswer watu oppule rejheufu bevge unmuro duhsispav. Cu pip cug becrup omu totwacgon jaon milvosir ufu luvfo coskib ub. Niwte tegusuno asizedhu bieg caf fi tutta pinigo gilobu senbofev sa sesinpo ehduuma ma. Rot vuhhe jaj piir teffub pilume cupun napavnul fu fip hufoh habiwgoz pi torifpo ker. Der rugaho sobta aguj zihige kukomhep odre oveifi ihanovoj eteta noj guhvosa cuzolo ojhigvus vome nasih. Anegehvo ha pu veboki cucalit lujogok fanu tumrelaz jejavsok nehes ozfos levudo zahu ifozeof."
+  },
+  "apiKey": "99e4100cc0242592f637ed550745bec45394162a84f197c67083d338202e72bd",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
