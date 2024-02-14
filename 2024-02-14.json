@@ -1,0 +1,26 @@
+{
+  "name": "Mildred Castro",
+  "age": 22,
+  "address": {
+    "street": "Wipsoc Grove",
+    "city": "Ceuvuram",
+    "state": "MO",
+    "zip": "42584"
+  },
+  "contact": {
+    "phone": "(649) 302-5364",
+    "servicePhone": "800433143"
+  },
+  "birthday": "1997-12-26T17:43:20.343Z",
+  "ip": "34.201.40.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Rizoaj jiridmaw un nembaaj ce mum hosam ovozu ut alorekeg im uve zib vek rufko. Pusawa dam higodov puwobi micza ocole bi wiadiga esawiw bizu getredwu do gifolij dien. Poc jihwoguj heogi wunuuj amebinel kuon revwevaj famacze mu heus kizfiwzun ur.",
+    "bio": "Aleh gob kur zi ju fel odanazib mufazwa opahrat ejoriar kuvjep sal amoenoela diwefe zofise zuc. Fes gazgipce cow vupmu bijorek ejleen vum fespeple lupemhel riwah muw okkivuc hozivid fac guk lohag dirmivec bodfar. Lot lin ebca jil hoz naha etebuabi waof din zoga tidvodu vazakce. Gebom faw kisvile tuahhu paluhzag niuhohik geknim jeper lo felo hig vuc muh dovi juhufreh."
+  },
+  "apiKey": "f47dd7cba88fd3d372aa6c415392d773cf3c73e70db5de2a82117c38bdff5002",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
