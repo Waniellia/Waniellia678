@@ -1,0 +1,26 @@
+{
+  "name": "Jane Bailey",
+  "age": 22,
+  "address": {
+    "street": "Wuncol River",
+    "city": "Oripoere",
+    "state": "SC",
+    "zip": "39220"
+  },
+  "contact": {
+    "phone": "(703) 341-1206",
+    "servicePhone": "800452887"
+  },
+  "birthday": "1989-08-25T16:51:37.509Z",
+  "ip": "38.25.43.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Du menji is fomfe kihpugvi picar de gu sa sera ibuwi nu rat ki vafu. Patjavep eg ug osviwzud em li bomu das ahutehom wudo vejibgir ugpi tima ciga suk. Muziw sog vadebfe sim ezhemwe jav hel ko berelbe cuhoj fufa afupuepi jehke tigawin wa.",
+    "bio": "Puwducpa aru go usu hisudip tobhocdof uwoneb ceatze ni ac wuz ra taji gizvegto maemowo. Weg wunimcil fuap lifwi werajbo pun mik kocugsig gobes ki go zaoh. Egha iz su di revlowva ecosop giv ivibozol jirzeha cuvsoudu bi dusvi cencuz mief."
+  },
+  "apiKey": "cfe7b9fe70b9bf61b4d364fd50cd76b6a0dffd81c1da25a7cda70ffc92a1cddf",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
