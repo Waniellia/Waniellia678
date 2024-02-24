@@ -1,0 +1,26 @@
+{
+  "name": "Callie Mullins",
+  "age": 33,
+  "address": {
+    "street": "Medvu Square",
+    "city": "Lohizke",
+    "state": "PA",
+    "zip": "24626"
+  },
+  "contact": {
+    "phone": "(459) 863-3465",
+    "servicePhone": "800478327"
+  },
+  "birthday": "1999-05-28T05:48:02.779Z",
+  "ip": "31.190.212.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Jufhup veog nefezzaf dusni ma mebbu zumbe sa ulojhil nirho kisirsit ewehum wisok bu. Socecoma de ro jevob botowoni uzuhakpud cutwid piji lobosa bud muttapem coc ha viasoek. Lupmu lemuppij pum ja umjiuti roosimin lipaz udija vumliv azahruw agekug jifjacda le rohsiji rotu nit eru. Jibijko ag leg opiusezi jumik ulbali ta ruraso oce kemguh mazzoniz okolut.",
+    "bio": "Red nuszab algacpo vuve zewubin si ce wuefa hakzogil kujwitub ran ap wital hapepoc ovijihi. Pokro wag ezedofu we kejisu fagmul pagud puow cuvju ihago mosikhef isripfa la faegrut taggak. Ju zecefo ihekihik zeltuoz na duub eka tesep fonire cififevi rol jacac covagpar emo."
+  },
+  "apiKey": "169c31e7a2c569aabfccc841e3a7771fa7476ba6081a1b8ca59db01cb81aafa1",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
