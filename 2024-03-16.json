@@ -1,0 +1,26 @@
+{
+  "name": "Carl Carlson",
+  "age": 29,
+  "address": {
+    "street": "Pubu Terrace",
+    "city": "Balucode",
+    "state": "DE",
+    "zip": "84329"
+  },
+  "contact": {
+    "phone": "(250) 824-1751",
+    "servicePhone": "800378443"
+  },
+  "birthday": "1973-06-06T16:42:31.590Z",
+  "ip": "19.209.84.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Esisoev zijaes lokwidilo zafus bonpuvu rob ma kolpohid sopiw pe adebe ab gihgizlu agomishen faw. Re uda um bu upjihhe bazubit vusaan fujlojup kof obolojo tat gowbim tukve kemapaet duuz epzaj kidpiin. Kulherac mof capcipfel gissothe vepup pujana luinpuc adaah tunun mumutave unu re isusi ko lacizhe.",
+    "bio": "Sosfow he biuwubu vi pum mad isefekim iciadobir idrurne fuutezu rugpeemo gav bogwokut divtiswil. Re hew we devle nasutigi uli punaj gebaskip zezce ucubupu iwimu zufane arrejri rab. Wo dotusfop luboos ehifa ma jit vas debluoc jiwika vaiwuho ju eskias fon cuctol reebo. Kodabsi wo miab livzozo fel nolwe redtizi ozu nepa zigsa ulisuvdil mitivzab luas tihpihtu zo. Matav burizupu pop kan maachi doetaje lalgaeg kaz mafu dagku lentehiho of ku apajinraf bufuk. Koif jisrowup zim duwaswu wo wadwok gunisa pi neohzej ciuni movfiek webo oga sob cuvahe bogatheh cunakta."
+  },
+  "apiKey": "ad038b8d416c61cc7623f38f2e982fa183f6313f72b540ef347338e280d23a61",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
