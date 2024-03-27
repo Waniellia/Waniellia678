@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Banks",
+  "age": 33,
+  "address": {
+    "street": "Mino Glen",
+    "city": "Mutivo",
+    "state": "TN",
+    "zip": "89740"
+  },
+  "contact": {
+    "phone": "(456) 473-2303",
+    "servicePhone": "800925449"
+  },
+  "birthday": "1980-08-14T06:18:49.505Z",
+  "ip": "207.174.129.7",
+  "foo": "bar",
+  "profile": {
+    "about": "On ma cicule ridow wekedo pijmoj iwufagot nowho kahu murlu lid ic lin. Ko gajseto bahti begrab awusogmag pizkiv cofvopmed fa fuk luw feje gojo. Rer enraffo bib voflojha le dasa wanvi itwum urwek pinow zihrag jasrobcot uza ku dej.",
+    "bio": "Wi kaktir bo amicovi cic jevojuw noglake usodalfaz ultob hugseiha hegizku dage jeztactip wucpabtut seivu epedareh ivakos zarrun. Cewsa reghafok bufimup neopu dewanakiw akbab wokeicu ovo aw goc lajemho ar ja diroc. Molfagfe dehsafu bu conrazzu uk beg vemerujud zi se pem sasakjib hugas. Hokzugewa lufi muki pabsi wove ukuebe ruceb sic nuri ju sucuf lu. Gibojado ku ba kocki di div hasazo nepala gobjuk bazag ma uvugijoj pimfiw uholemge apgon."
+  },
+  "apiKey": "a09b34d0069349f37efaeb5321ce91ea12802f82f9b82b5ae2ddb5874205bad6",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
