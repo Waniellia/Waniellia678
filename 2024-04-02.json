@@ -1,0 +1,26 @@
+{
+  "name": "David Farmer",
+  "age": 32,
+  "address": {
+    "street": "Juuse Court",
+    "city": "Tuhoda",
+    "state": "NV",
+    "zip": "74695"
+  },
+  "contact": {
+    "phone": "(736) 253-3569",
+    "servicePhone": "800253519"
+  },
+  "birthday": "1959-01-02T23:58:16.130Z",
+  "ip": "245.209.58.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ija caduro hutnovic ugosaw nitamziv wa te un conazvuh ugucegan jifkef pikkut guvuti kotoh ticemitap dakdomcoz tujo. Howoz hehtusaw cagec ahvoc su tebnaveru vukmuka ode kurmotvo egu luveb mo naltiko obe dibijacib tiv ari. Majab beto efo bani to uju imrut rovdi ka bajuv remnotzac sohkul noes tedol kevmicahu. Ozcan pejlak gipro ruseha bizilaw cufufazo fokilta akba gozhid gidceope ekuwenub fiwa den huro soire. Lokzaw cizez liztedot ronabe kof kekwa fova lof jel picgu latkejrik utte boffizcil nulhibi ake veideco dehobur. Usekowto he it zapad fikvi noohi cur voucfet jaatagi ajibe kil je ruhen wuuzatep vepbubri.",
+    "bio": "Bomuhir badro kub duhma fegnar egbaf us cefit ed nok bono tofzogwiv usa folzurmaj nogeas. Gu nogeh fac juwdo vozulvi edura ifzi omoape vu sorfotli odacumab zita riralud. Jeihpi sufefle zolafaeso lug rawlal dokdaos ge karduet sohuzgiz hi ju uka sehmak umoubu gojto. Gaohki woppugife sodus zusnoona sam ac awaban arojejev hoj genpawa ginnarmu rosiine niem nog. Bieji vafib ivupipik zib horra ebaonwec latkeib movvugan lilav ca vire weczazit ewfoov no. Fanod gur jozvaton itveos id itsu cazogeur fiwon otijekme ujne nevaf kef ginec ulbajzo tolro."
+  },
+  "apiKey": "a439b56a4a69431c4f5999054faf76230df68f15d9de3e9979c1d5d6588976cb",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
